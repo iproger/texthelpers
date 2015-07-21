@@ -1,0 +1,24 @@
+{
+    "name": "iproger/texthelpers",
+    "description": "Process text",
+    "version": "0.1",
+    "license": "GPL-3.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "iproger\\texthelpers\\": ""
+        }
+    },
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "Mikhail Shatilov",
+            "email": "proger.mixa@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev"
+}
